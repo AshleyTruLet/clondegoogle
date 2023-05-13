@@ -2,7 +2,7 @@
 
 ## ÍNDICE
 
-* [1. Introducción] (https://github.com/AshleyTruLet/clondegoogle/blob/main/README.md#1-intro)
+* [1. Introducción](https://github.com/AshleyTruLet/clondegoogle/blob/main/README.md#1-intro)
 * [2. Qué construí] (#)
 * [3. Objetivo del proyecto] (#)
 
